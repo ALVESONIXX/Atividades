@@ -1,0 +1,3 @@
+C:\Users\Aluno\Desktop\Atividade 4\Abstração e Herança\obj\Debug\Abstração e Herança.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Atividade 4\Abstração e Herança\obj\Debug\Abstração e Herança.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Atividade 4\Abstração e Herança\obj\Debug\Abstração e Herança.csproj.CoreCompileInputs.cache
